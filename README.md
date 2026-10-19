@@ -23,6 +23,7 @@ Client ecommerce stores on Next.js and Shopify, a web game hub packed with pixel
 * [agentsnap](https://github.com/2moulin/agentsnap): snapshot testing for AI agents, record a run and diff later runs to catch regressions in CI.
 * [mcp-ops](https://github.com/2moulin/mcp-ops): a read only MCP server that gives an AI agent full visibility over a production stack.
 * [duet](https://github.com/2moulin/duet): an orchestration setup for Claude Code.
+* [solana-token-list](https://github.com/2moulin/solana-token-list): automated SPL token discovery that scans five DEXs every 30 minutes and serves a public list of 88,000+ Solana tokens, at zero API cost.
 
 ## Reach me
 
