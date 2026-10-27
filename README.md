@@ -8,15 +8,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-14F195?logo=solana&logoColor=black)
 
-Fullstack developer. I design and ship web, mobile and game products from idea to production.
-
-## Building now
-
-[World Industries Network](https://worldindustriesnetwork.ai): a full B2B platform, with a multivendor marketplace, realtime chat, a CRM and ERP, and Stripe Connect payments.
-
-## Also shipped
-
-Client ecommerce stores on Next.js and Shopify, a web game hub packed with pixel art games, and a Solana NFT platform that turned a real profit at launch.
+Fullstack developer
 
 ## Open source
 
